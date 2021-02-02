@@ -1,7 +1,7 @@
 # generate_lfw_test_pair
 Generate test pair based on LFW dataset
 
-Create (lfw)[https://github.com/ronghuaiyang/arcface-pytorch/blob/master/lfw_test_pair.txt] test pair
+Create [lfw](https://github.com/ronghuaiyang/arcface-pytorch/blob/master/lfw_test_pair.txt) test pair
 
 ### Directory should follow as follows:
 ```
